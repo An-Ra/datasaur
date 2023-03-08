@@ -1,2 +1,2 @@
 # Datasaur.ai
-## This repo create for fullfill datasaur challenge
+## This repo created for fullfill datasaur challenge
